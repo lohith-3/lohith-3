@@ -18,4 +18,4 @@ I'm Lohith Eruvaram, I'm a software engineer 👨‍💻 who is passionate about
 - ⚡ Languages: Javascript, TypeScript, Reactjs, Vue js
 
 ---
-⭐️ From [LohithEruvaram](https://github.com/lohith-3)
+⭐️ From [Lohith Eruvaram](https://github.com/lohith-3)
