@@ -1,16 +1,21 @@
-### Hi there 👋
+# Lohith Eruvaram  
 
-<!--
-**lohith-3/lohith-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/lohith-reddy-7b7a22172/">
+  <img align="left" alt="Lohith Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/lohith-3">
+  <img align="left" alt="Lohith Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
 
-Here are some ideas to get you started:
+## Hi 👋, 
+I'm Lohith Eruvaram, I'm a software engineer 👨‍💻 who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Apps.
+- 🌱 I’m currently learning Data Structures and Algorithms with Javascript & TypeScript.
+- 💬 Ask me about: tech, memes, anime
+- 😄 Pronouns: he/him
+- ⚡ Languages: Javascript, TypeScript, Reactjs, Vue js
+
+---
+⭐️ From [LohithEruvaram](https://github.com/lohith-3)
